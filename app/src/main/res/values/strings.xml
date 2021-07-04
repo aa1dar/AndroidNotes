@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="timeInList">Время</string>
+    <string name="change_date">Выбрать дату</string>
+    <string-array name="timesInterval">
+        <item>00:00-\n01:00</item>
+        <item>01:00-\n02:00</item>
+        <item>02:00-\n03:00</item>
+        <item>03:00-\n04:00</item>
+        <item>04:00-\n05:00</item>
+        <item>05:00-\n06:00</item>
+        <item>06:00-\n07:00</item>
+        <item>07:00-\n08:00</item>
+        <item>08:00-\n09:00</item>
+        <item>09:00-\n10:00</item>
+        <item>10:00-\n11:00</item>
+        <item>11:00-\n12:00</item>
+        <item>12:00-\n13:00</item>
+        <item>13:00-\n14:00</item>
+        <item>14:00-\n15:00</item>
+        <item>15:00-\n16:00</item>
+        <item>16:00-\n17:00</item>
+        <item>17:00-\n18:00</item>
+        <item>18:00-\n19:00</item>
+        <item>19:00-\n20:00</item>
+        <item>20:00-\n21:00</item>
+        <item>21:00-\n22:00</item>
+        <item>22:00-\n23:00</item>
+        <item>23:00-\n00:00</item>
+
+    </string-array>
+</resources>
